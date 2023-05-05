@@ -1,13 +1,13 @@
 # flycatcher_alarm_calls_song_discrimination
 
-This repository hosts data and R codes for Bliard L., Qvarnström A., Wheatcroft D. (2021). The role of introductory alarm calls for song discrimination in Ficedula flycatchers. Animal Behaviour. https://doi.org/10.1016/j.anbehav.2021.05.018
+This repository hosts data and R codes for Bliard L., Qvarnström A., Wheatcroft D. (2021). The role of introductory alarm calls for song discrimination in *Ficedula* flycatchers. Animal Behaviour. https://doi.org/10.1016/j.anbehav.2021.05.018
 
 Data and code also available on Zenodo https://doi.org/10.5281/zenodo.4607842
 
 
 ## GENERAL INFORMATION
 
-1. Title: Data and scripts from *The role of introductory alarm calls for song discrimination in Ficedula flycatchers*.
+1. Title: Data and scripts from "The role of introductory alarm calls for song discrimination in *Ficedula* flycatchers".
 
 2. Author Information
 	A. Principal Investigator Contact Information
