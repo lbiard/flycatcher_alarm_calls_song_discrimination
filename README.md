@@ -73,17 +73,17 @@ The dataset `comparison_call_or_not.txt` was used for the analysis in Appendix I
 
 1. Description of methods used for collection/generation of data: 
 
-Dataset “data_nestling_experiment.txt”
+Dataset `data_nestling_experiment.txt`
 
 12-day-old pied flycatcher nestlings were exposed to playbacks of different sound recordings. All the nestlings of a clutch were temporarily removed from their nest and placed on a layer of moss inside an experimental nestbox. Each nestling was marked with symbols on the head using correction fluid, to enable individual recognition of the nestlings in video recordings. The nestbox was set up at least 200 m from the closest known flycatcher nest to avoid hearing adult flycatchers singing or alarm calling. An ‘Eco Extreme Speaker’ (Grace Digital, Poway, CA, U.S.A.) was positioned approximately 1 m from the nestbox and connected to a smartphone. We waited a minimum of 5 min after the nestlings were placed inside the experimental nestbox to start a trial. Each trial proceeded as follows. After 1 min of silence, one of two treatments was played back: collared flycatcher songs, each preceded by a collared flycatcher call, or pied flycatcher songs, each preceded by a collared flycatcher call. Each playback lasted 1 min. Then, a minute of silence was observed again, followed by a recording from the other treatment. Thus, each collared flycatcher nestling was exposed to the two different treatments, alternating the order between each trial. This playback experiment was performed on 222 nestlings from 45 nests. After each trial, nestlings were individually ringed and weighed, and then brought back to their natal nestbox. The whole trial was watched via a live video feed and video recorded using a digital video recorder (PV-1000, Lawmate International, Taipei, Taiwan). Subsequently, the video recording of each experimental trial was analysed by a single observer. We noted the number of times each nestling begged, opened its gape, looked up and shifted its position inside the experimental nestbox.
 
-Dataset “data_adult_experiment.txt”
+Dataset `data_adult_experiment.txt`
 
 This experiment was mimicking a territorial intrusion by another male flycatcher. Each responding male was used only once. A trial consisted of a 5 min period of silence where only the speaker was set up and a wooden collared flycatcher dummy was mounted on the nestbox. During the initial silence period, we ensured that males did not respond to the dummy itself to be sure that they were not responding to cues other than the following playback. The dummy was used to make this experiment comparable to earlier studies. This was followed by one of the two experimental treatments for a duration of 10 min. During the 10 min of the playback, we recorded the behavioural response of the focal male, noting for every minute whether the male was alarm calling, whether it was wing flicking and its minimal perching distance to the speaker.
 
-Dataset “data_nestling_wheatcroft2017.txt”
+Dataset `data_nestling_wheatcroft2017.txt`
 
-Similar methods as for the “data_nestling_experiment.txt”, see more details in https://doi.org/10.1038/s41559-017-0192 
+Similar methods as for the `data_nestling_experiment.txt`, see more details in https://doi.org/10.1038/s41559-017-0192 
 
 
 2. Methods for processing the data: Raw data
