@@ -9,15 +9,18 @@ Data and code also available on Zenodo https://doi.org/10.5281/zenodo.4607842
 
 1. Title: Data and scripts from "The role of introductory alarm calls for song discrimination in *Ficedula* flycatchers".
 
-2. Author Information
-	A. Principal Investigator Contact Information
-		Name: Louis Bliard
+2. Author Information:
+
+	A.  Name: Louis Bliard
 		Institution: University of Zurich
 		Address: Winterthurerstrasse 190, 8057 Zurich, Switzerland
 		Email: louis.bliard@uzh.ch / louis.bliard@evobio.eu
 
-	B. Associate or Co-investigator Contact Information
-		Name: David Wheatcroft
+        B.  Name: Anna Qvarnstöm
+		Institution: Uppsala University
+		Address: Norbyvägen 18 D, 75236 Uppsala, Sweden
+
+	C.  Name: David Wheatcroft
 		Institution: Stockholm University
 		Address: Svante Arrhenius Väg 18B, 11418 Stockholm, Sweden
 		Email: david.wheatcroft@zoologi.su.se
