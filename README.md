@@ -19,7 +19,7 @@ Data and code also available on Zenodo https://doi.org/10.5281/zenodo.4607842
         B.  Name: Anna Qvarnstöm
 		Institution: Uppsala University
 		Address: Norbyvägen 18 D, 75236 Uppsala, Sweden
-
+		
 	C.  Name: David Wheatcroft
 		Institution: Stockholm University
 		Address: Svante Arrhenius Väg 18B, 11418 Stockholm, Sweden
