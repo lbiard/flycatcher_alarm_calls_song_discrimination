@@ -10,7 +10,7 @@ rm(list = ls())
 library(R2jags)
 library(ggplot2)
 
-data <- read.delim("~/Documents/MEME/S4 Uppsala/MS/data_submission/data_nestling_experiment.txt")
+data <- read.delim("~/data_nestling_experiment.txt")
 
 #### check zero inflation index ####
 1 + log(length(data$Beg_play[data$Beg_play==0])/length(data$Beg_play))/mean(data$Beg_play)  #more than 0 so it is ZI
