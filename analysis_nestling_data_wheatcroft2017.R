@@ -11,7 +11,7 @@ set.seed(5)
 library(R2jags)
 library(ggplot2)
 
-data <- read.delim("~/Documents/MEME/S4 Uppsala/MS/data_submission/data_nestling_wheatcroft2017.txt")
+data <- read.delim("~/data_nestling_wheatcroft2017.txt")
 
 
 
