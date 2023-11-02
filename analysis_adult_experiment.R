@@ -11,7 +11,7 @@ set.seed(55)
 library(ggplot2)
 library(R2jags)
 
-data <- read.delim("~/Documents/MEME/S4 Uppsala/MS/data_submission/data_adult_experiment.txt")
+data <- read.delim("~/data_adult_experiment.txt")
 
 
 ######################
